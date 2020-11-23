@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b61dd0da.chunk.css",
-    "main.js": "/static/js/main.27a5baac.chunk.js",
-    "main.js.map": "/static/js/main.27a5baac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2b540aa0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2b540aa0.js.map",
-    "static/js/2.d63dbed6.chunk.js": "/static/js/2.d63dbed6.chunk.js",
-    "static/js/2.d63dbed6.chunk.js.map": "/static/js/2.d63dbed6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b61dd0da.chunk.css.map": "/static/css/main.b61dd0da.chunk.css.map",
-    "static/js/2.d63dbed6.chunk.js.LICENSE.txt": "/static/js/2.d63dbed6.chunk.js.LICENSE.txt"
+    "main.css": "/ReactPresupuestosHooks/static/css/main.b61dd0da.chunk.css",
+    "main.js": "/ReactPresupuestosHooks/static/js/main.27a5baac.chunk.js",
+    "main.js.map": "/ReactPresupuestosHooks/static/js/main.27a5baac.chunk.js.map",
+    "runtime-main.js": "/ReactPresupuestosHooks/static/js/runtime-main.9256b99d.js",
+    "runtime-main.js.map": "/ReactPresupuestosHooks/static/js/runtime-main.9256b99d.js.map",
+    "static/js/2.d63dbed6.chunk.js": "/ReactPresupuestosHooks/static/js/2.d63dbed6.chunk.js",
+    "static/js/2.d63dbed6.chunk.js.map": "/ReactPresupuestosHooks/static/js/2.d63dbed6.chunk.js.map",
+    "index.html": "/ReactPresupuestosHooks/index.html",
+    "static/css/main.b61dd0da.chunk.css.map": "/ReactPresupuestosHooks/static/css/main.b61dd0da.chunk.css.map",
+    "static/js/2.d63dbed6.chunk.js.LICENSE.txt": "/ReactPresupuestosHooks/static/js/2.d63dbed6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b540aa0.js",
+    "static/js/runtime-main.9256b99d.js",
     "static/js/2.d63dbed6.chunk.js",
     "static/css/main.b61dd0da.chunk.css",
     "static/js/main.27a5baac.chunk.js"
